@@ -5,6 +5,11 @@ body {
   margin:0;
 }
 
+.flex {
+  display: flex; 
+  gap: 2rem;
+}
+
 .container-fluid {
   border-bottom: 4px solid #171A1C;
 }
