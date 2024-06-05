@@ -6,10 +6,14 @@ body {
 }
 
 .flex {
-  display: flex; 
-  gap: 2rem;
+  display: flex;
+  justify-content: center;
+  zoom: 181%;
 }
 
+.flex a {
+  margin: 0 2px;
+}
 .container-fluid {
   border-bottom: 4px solid #171A1C;
 }
